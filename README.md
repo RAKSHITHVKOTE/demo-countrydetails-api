@@ -106,31 +106,26 @@ mvn spring-boot:run
 
 ### Application
 
-   text
 http://localhost:9090
    
 
 ### Countries API
 
-   text
 http://localhost:9090/countries
    
 
 ### Cities API
 
-   text
 http://localhost:9090/countries/1/cities
    
 
 ### City Details API
 
-   text
 http://localhost:9090/cities/1
    
 
 ### Swagger UI
 
-   text
 http://localhost:8080/swagger-ui/index.html
    
 
